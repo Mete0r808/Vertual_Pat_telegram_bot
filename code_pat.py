@@ -1,2 +1,2 @@
-x = input()
-print(x)
+git status
+
